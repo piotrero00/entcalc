@@ -2,6 +2,7 @@
 entcalcpy is a Matlab package for computing the geometric entanglement of a given quantum state. 
 It works by computing lower and upper bounds for the geometric entanglement.
 These bounds are often close to each other, allowing us to estimate the value of the geometric entanglement in a given quantum state.
+All functions of the package are in entcalc directory.
 ## Table of Contents
 - [Installation](#installation)
 - [Dependencies](#dependencies)
