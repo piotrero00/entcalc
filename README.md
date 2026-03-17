@@ -50,7 +50,7 @@ If you find any issues, we encourage you to report them via GitHub or by emailin
 ## Acknowledgment
 Special thanks to Krystyna Mordzińska for coming up with the package name after a creative brainstorming session.
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the BSD 3-Clause License - see the LICENSE file for details.
 ## Citing
 If you use entcalc in academic work, please cite this package. Below we give bibtex version of citation:
 ```latex
