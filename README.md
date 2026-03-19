@@ -17,7 +17,7 @@ This package requires the following Python packages:
 - `cvx` ≥ 2.2.2  
 - `qetlab` ≥ 1.0 
 ## Getting started
-To get started with entcalc, we recommend reading readme file. The documentation is written in docstrings.
+To get started with entcalc, we recommend going through examples section. The documentation is written in docstrings.
 For example, the following code computes the upper bound of the geometric entanglement of a random quantum state.
 ```matlab
 % MATLAB usage example
